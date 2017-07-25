@@ -1,0 +1,72 @@
+Q>What is AngularJS ?
+
+-AngularJS is a javascript framework used for creating single web page applications.
+
+Q>What are the key features of Angularjs ?
+
+Scope
+Controller
+Model
+View
+Services
+Data Binding
+Directives
+Filters
+Testable
+
+Q>What is JSON ?
+
+ -JSON JavaScript Object Notation is language independent, lightweight data-interchange format,
+  "self-describing" and easy to understand.
+   Json mainly use javascript syntex but it format in only text. just like XML.
+
+Q>Differences between JSON and XML
+
+  JSON	                                                     XML
+  JSON stands for JavaScript Object Notation.	       XML stands for eXtensible Markup Language.
+  It is simple to read and write.	                    Compare to JSON XML is less simple.
+  It is data-oriented.	                                XML is document-oriented.
+  It is less secured than XML.	                         It is more secured.
+  JSON doesn't use end tag	                             XML have end tag.
+  JSON is shorter	                                     XML is larger than JSON.
+  JSON is quicker to read and write	                         XML is not.
+  JSON can use arrays	                                  XML do not have an array.
+
+ - Similarities between JSON and XML
+
+  Both are simple and open.
+  Both are language-independent.
+  Both are self describing (human readable)
+  Both are hierarchical (values within values)
+  JSON and XML can be parsed and used by lots of programming languages
+  JSON and XML can be fetched with an XMLHttpRequest
+  JSON and XML supports unicode. So internationalization is supported by JSON and XML both.
+
+  Q>Difference between Html and Html5
+
+    Html	                                                                                                                                          Html5
+    Doctype declaration in Html is too longer
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">	                          DOCTYPE declaration in Html5 is very simple "<!DOCTYPE html>
+    character encoding in Html is also longer
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">	                                                       character encoding (charset) declaration is also very simple <meta charset="UTF-8">
+    Audio and Video are not part of HTML4	                                                                                 Audio and Videos are integral part of HTML5 e.g. <audio> and <video> tags.
+    Vector Graphics is possible with the help of technologies such as VML, Silverlight, Flash etc	                          Vector graphics is integral part of HTML5 e.g. SVG and canvas
+    It is almost impossible to get true GeoLocation of user browsing any website especially if it comes to mobile devices.	JS GeoLocation API in HTML5 helps identify location of user browsing any website (provided user allows it)
+    Does not allow JavaScript to run in browser. JS runs in same thread as browser interface.	                             Allows JavaScript to run in background. This is possible due to JS Web worker API in HTML5
+    Works with all old browsers	                                                                                              Supported by all new browser.
+
+    Q>What are the Advantages of using Angularjs
+
+      Two way data-binding
+      MVC pattern
+      Provides Static template and angular template
+      Can add custom directive
+      Provides REST full services
+      Provides form validations
+      Provides both client and server communication
+      Provides dependency injection
+      Applying Animations
+      Event Handlers
+
+      Q>
+
